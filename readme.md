@@ -1,1 +1,2 @@
-this is sophiya maharjan
+# this is sophiya maharjan
+## Sophiya Maharjan
